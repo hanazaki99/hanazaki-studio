@@ -37,8 +37,8 @@ export function LogosBanner() {
         className="relative h-12 w-28 sm:h-16 sm:w-36 lg:h-20 lg:w-48"
       >
         <Image
-          src="/images/chicago-2025.png"
-          alt="Chicago Build 2026 Expo"
+          src="/images/chicago-2024.png"
+          alt="Chicago Build 2024 Expo"
           fill
           sizes="(max-width: 640px) 112px, (max-width: 1024px) 144px, 192px"
           className="object-contain object-center opacity-70"
