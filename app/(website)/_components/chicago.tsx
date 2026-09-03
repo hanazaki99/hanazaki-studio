@@ -77,13 +77,13 @@ export function Chicago() {
           <h2 className="poppins-font text-4xl font-semibold leading-tight sm:text-5xl lg:text-[3.25rem] lg:leading-[1.1]">
             <span className="text-gold-primary">Hanazaki na</span>
             <br />
-            <span className="text-light-primary">Expo Build Chicago 2025</span>
+            <span className="text-light-primary">Expo Build Chicago 2024</span>
           </h2>
 
           <div className="w-12 h-px bg-gold-primary/60" />
 
           <p className="poppins-font text-base font-normal text-light-primary leading-relaxed sm:text-lg">
-            Em 2025 estivemos na Expo Build Chicago, apresentando experiências
+            Em 2024 estivemos na Expo Build Chicago, apresentando experiências
             interativas em Unreal Engine ao mercado norte-americano. Passo
             concreto no caminho de mostrar a tecnologia brasileira pra fora
             do país.
